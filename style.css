@@ -1,0 +1,43 @@
+div.titulo {
+    width: 500px;
+    background-color: rgba(81, 8, 124, 0.918);
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+html {
+    font-family:sans-serif ;
+
+
+}
+
+body {
+   background: url(imagens/wallpaperflare.com_wallpaper.jpg)
+}
+
+div.painel {
+    width: 1000px;
+    background-color: rgba(81, 8, 124, 0.918);
+    margin: auto;
+    border: solid black 2px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 50px;
+    padding: 10px;
+
+}
+
+div.painel h2 {
+    text-align: center;
+
+}
+
+div.painel a {
+    text-decoration: none;
+    color: white
+}
