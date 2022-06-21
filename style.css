@@ -17,7 +17,9 @@ html {
 }
 
 body {
-   background: url(imagens/wallpaperflare.com_wallpaper.jpg)
+   background: url(imagens/wallpaperflare.com_wallpaper.jpg);
+    background-attachment:fixed;
+       
 }
 
 div.painel {
